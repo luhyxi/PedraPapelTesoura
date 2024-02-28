@@ -5,6 +5,7 @@
         Pedra,
         Tesoura,
         Papel,
-        Trem
+        Lagarto,
+        Spock
     }
 }
